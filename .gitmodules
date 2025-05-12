@@ -5,5 +5,5 @@
 	path = lvim
 	url = git@github.com:chowe99/lvim-conf.git
 [submodule "hypr"]
-  path = hypr
-  url  = git@github.com:chowe99/hypr.git
+	path = hypr
+	url = git@github.com:chowe99/hypr.git
