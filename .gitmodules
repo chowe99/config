@@ -1,0 +1,6 @@
+[submodule "waybar"]
+	path = waybar
+	url = git@github.com:chowe99/waybar.git
+[submodule "lvim"]
+	path = lvim
+	url = git@github.com:chowe99/lvim-conf.git
